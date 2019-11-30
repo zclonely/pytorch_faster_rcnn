@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "0b12c70a01b5b4fd514a2c1958111ecc",
+        "format": "8",
+        "state": 2,
+        "type": 3,
+        "name": "14%23-5-PCNQ-4Ra.MP4#t=106.8",
+        "path": "file:F:/Zchao/guanjiang_dataset/14%23-5-PCNQ-4Ra.MP4#t=106.8",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "parent": {
+            "format": "MP4",
+            "id": "476cf41ddc6f64b884b57e9ec495adce",
+            "name": "14%23-5-PCNQ-4Ra.MP4",
+            "path": "file:F:/Zchao/guanjiang_dataset/14%23-5-PCNQ-4Ra.MP4",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 106.8
+    },
+    "regions": [
+        {
+            "id": "ySnIpYRA9",
+            "type": "RECTANGLE",
+            "tags": [
+                "1"
+            ],
+            "boundingBox": {
+                "height": 55.10204081632653,
+                "width": 56.92969870875179,
+                "left": 579.3974175035868,
+                "top": 602.8412363480548
+            },
+            "points": [
+                {
+                    "x": 579.3974175035868,
+                    "y": 602.8412363480548
+                },
+                {
+                    "x": 636.3271162123386,
+                    "y": 602.8412363480548
+                },
+                {
+                    "x": 636.3271162123386,
+                    "y": 657.9432771643814
+                },
+                {
+                    "x": 579.3974175035868,
+                    "y": 657.9432771643814
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
